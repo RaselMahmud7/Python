@@ -1,4 +1,4 @@
-# Description: This file contains the basic python code for the beginners.
+"""# Description: This file contains the basic python code for the beginners.
 FirstMonth = 23
 SecondMonth = 32
 ThirdMonth = 64
@@ -6,3 +6,4 @@ ThirdMonth = 64
 mean = (FirstMonth+SecondMonth+ThirdMonth ) /3
 print(mean)
 
+"""
